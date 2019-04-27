@@ -1,7 +1,7 @@
 package oata;
 
-public class HelloWorld {
+public class Bayaas Devops {
     public static void main(String[] args) {
-        System.out.println("Hello World");
+        System.out.println("Bayaas Devops");
     }
 }
